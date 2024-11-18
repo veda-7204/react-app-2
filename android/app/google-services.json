@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250543185860",
+    "project_id": "finalreact-b95cd",
+    "storage_bucket": "finalreact-b95cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250543185860:android:8e86c61cd5072c12500e91",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBKsNkBBCejT5b5kjB9rDz-uX2_O7RaqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
